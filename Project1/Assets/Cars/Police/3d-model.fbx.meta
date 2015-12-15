@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 310f2108cd4545148b486c18818a0f5c
+timeCreated: 1449464259
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3D_Object_#11_001
+    100004: 3D_Object_#11_003
+    100006: 3D_Object_#13_001
+    100008: 3D_Object_#15_001
+    100010: 3D_Object_#15_003
+    100012: 3D_Object_#19_001
+    100014: 3D_Object_#20_001
+    100016: 3D_Object_#24_001
+    100018: 3D_Object_#3_001
+    100020: 3D_Object_#5_001
+    100022: 3D_Object_#8_001
+    100024: 3D_Object__001
+    100026: 3D_Object__003
+    100028: 3D_Object__005
+    100030: 3D_Object__007
+    100032: 4-954_001
+    100034: 4-954_002
+    100036: car racing seat_001
+    100038: car racing seat_002
+    100040: Group_001
+    100042: Group_002
+    100044: Group_003
+    100046: Group_004
+    100048: Group_005
+    100050: Group_006
+    100052: Group_007
+    100054: Group_008
+    100056: Group_009
+    100058: Group_010
+    100060: Group_012
+    100062: Group_013
+    100064: Group_015
+    100066: Group_017
+    100068: Group_018
+    100070: Group_019
+    100072: Group_020
+    100074: Group_021
+    100076: Group_022
+    100078: Group_023
+    100080: Group_024
+    100082: License Plate_003
+    100084: License Plate_004
+    100086: MHRU 119_001
+    100088: MHRU 119_002
+    100090: O.P.P._001
+    100092: O.P.P._002
+    100094: ONTARIO_001
+    100096: ONTARIO_002
+    100098: POLICE#1_001
+    100100: POLICE#2_001
+    100102: POLICE_001
+    100104: TORONTO_001
+    100106: TORONTO_002
+    100108: YOURS TO DISCOVE_001
+    100110: YOURS TO DISCOVE_002
+    400000: //RootNode
+    400002: 3D_Object_#11_001
+    400004: 3D_Object_#11_003
+    400006: 3D_Object_#13_001
+    400008: 3D_Object_#15_001
+    400010: 3D_Object_#15_003
+    400012: 3D_Object_#19_001
+    400014: 3D_Object_#20_001
+    400016: 3D_Object_#24_001
+    400018: 3D_Object_#3_001
+    400020: 3D_Object_#5_001
+    400022: 3D_Object_#8_001
+    400024: 3D_Object__001
+    400026: 3D_Object__003
+    400028: 3D_Object__005
+    400030: 3D_Object__007
+    400032: 4-954_001
+    400034: 4-954_002
+    400036: car racing seat_001
+    400038: car racing seat_002
+    400040: Group_001
+    400042: Group_002
+    400044: Group_003
+    400046: Group_004
+    400048: Group_005
+    400050: Group_006
+    400052: Group_007
+    400054: Group_008
+    400056: Group_009
+    400058: Group_010
+    400060: Group_012
+    400062: Group_013
+    400064: Group_015
+    400066: Group_017
+    400068: Group_018
+    400070: Group_019
+    400072: Group_020
+    400074: Group_021
+    400076: Group_022
+    400078: Group_023
+    400080: Group_024
+    400082: License Plate_003
+    400084: License Plate_004
+    400086: MHRU 119_001
+    400088: MHRU 119_002
+    400090: O.P.P._001
+    400092: O.P.P._002
+    400094: ONTARIO_001
+    400096: ONTARIO_002
+    400098: POLICE#1_001
+    400100: POLICE#2_001
+    400102: POLICE_001
+    400104: TORONTO_001
+    400106: TORONTO_002
+    400108: YOURS TO DISCOVE_001
+    400110: YOURS TO DISCOVE_002
+    2300000: 3D_Object_#11_001
+    2300002: 3D_Object_#11_003
+    2300004: 3D_Object_#13_001
+    2300006: 3D_Object_#15_001
+    2300008: 3D_Object_#15_003
+    2300010: 3D_Object_#19_001
+    2300012: 3D_Object_#20_001
+    2300014: 3D_Object_#24_001
+    2300016: 3D_Object_#3_001
+    2300018: 3D_Object_#5_001
+    2300020: 3D_Object_#8_001
+    2300022: 3D_Object__001
+    2300024: 3D_Object__003
+    2300026: 3D_Object__005
+    2300028: 3D_Object__007
+    2300030: 4-954_001
+    2300032: 4-954_002
+    2300034: car racing seat_001
+    2300036: car racing seat_002
+    2300038: Group_001
+    2300040: Group_002
+    2300042: Group_003
+    2300044: Group_004
+    2300046: Group_005
+    2300048: Group_006
+    2300050: Group_007
+    2300052: Group_008
+    2300054: Group_009
+    2300056: Group_010
+    2300058: Group_012
+    2300060: Group_013
+    2300062: Group_015
+    2300064: Group_017
+    2300066: Group_018
+    2300068: Group_019
+    2300070: Group_020
+    2300072: Group_021
+    2300074: Group_022
+    2300076: Group_023
+    2300078: Group_024
+    2300080: License Plate_003
+    2300082: License Plate_004
+    2300084: MHRU 119_001
+    2300086: MHRU 119_002
+    2300088: O.P.P._001
+    2300090: O.P.P._002
+    2300092: ONTARIO_001
+    2300094: ONTARIO_002
+    2300096: POLICE#1_001
+    2300098: POLICE#2_001
+    2300100: POLICE_001
+    2300102: TORONTO_001
+    2300104: TORONTO_002
+    2300106: YOURS TO DISCOVE_001
+    2300108: YOURS TO DISCOVE_002
+    3300000: 3D_Object_#11_001
+    3300002: 3D_Object_#11_003
+    3300004: 3D_Object_#13_001
+    3300006: 3D_Object_#15_001
+    3300008: 3D_Object_#15_003
+    3300010: 3D_Object_#19_001
+    3300012: 3D_Object_#20_001
+    3300014: 3D_Object_#24_001
+    3300016: 3D_Object_#3_001
+    3300018: 3D_Object_#5_001
+    3300020: 3D_Object_#8_001
+    3300022: 3D_Object__001
+    3300024: 3D_Object__003
+    3300026: 3D_Object__005
+    3300028: 3D_Object__007
+    3300030: 4-954_001
+    3300032: 4-954_002
+    3300034: car racing seat_001
+    3300036: car racing seat_002
+    3300038: Group_001
+    3300040: Group_002
+    3300042: Group_003
+    3300044: Group_004
+    3300046: Group_005
+    3300048: Group_006
+    3300050: Group_007
+    3300052: Group_008
+    3300054: Group_009
+    3300056: Group_010
+    3300058: Group_012
+    3300060: Group_013
+    3300062: Group_015
+    3300064: Group_017
+    3300066: Group_018
+    3300068: Group_019
+    3300070: Group_020
+    3300072: Group_021
+    3300074: Group_022
+    3300076: Group_023
+    3300078: Group_024
+    3300080: License Plate_003
+    3300082: License Plate_004
+    3300084: MHRU 119_001
+    3300086: MHRU 119_002
+    3300088: O.P.P._001
+    3300090: O.P.P._002
+    3300092: ONTARIO_001
+    3300094: ONTARIO_002
+    3300096: POLICE#1_001
+    3300098: POLICE#2_001
+    3300100: POLICE_001
+    3300102: TORONTO_001
+    3300104: TORONTO_002
+    3300106: YOURS TO DISCOVE_001
+    3300108: YOURS TO DISCOVE_002
+    4300000: 4-954_002
+    4300002: 4-954_001
+    4300004: O.P.P._002
+    4300006: O.P.P._001
+    4300008: TORONTO_002
+    4300010: TORONTO_001
+    4300012: POLICE#2_001
+    4300014: POLICE#1_001
+    4300016: POLICE_001
+    4300018: YOURS TO DISCOVE_002
+    4300020: ONTARIO_002
+    4300022: MHRU 119_002
+    4300024: License Plate_004
+    4300026: YOURS TO DISCOVE_001
+    4300028: ONTARIO_001
+    4300030: MHRU 119_001
+    4300032: License Plate_003
+    4300034: 3D_Object_#24_001
+    4300036: 3D_Object_#8_001
+    4300038: Group_024
+    4300040: Group_023
+    4300042: Group_022
+    4300044: Group_021
+    4300046: Group_020
+    4300048: Group_019
+    4300050: Group_018
+    4300052: Group_017
+    4300054: 3D_Object_#5_001
+    4300056: 3D_Object_#3_001
+    4300058: 3D_Object_#20_001
+    4300060: car racing seat_002
+    4300062: car racing seat_001
+    4300064: Group_015
+    4300066: Group_013
+    4300068: Group_012
+    4300070: Group_010
+    4300072: 3D_Object_#19_001
+    4300074: 3D_Object_#13_001
+    4300076: Group_009
+    4300078: 3D_Object__007
+    4300080: Group_008
+    4300082: 3D_Object__005
+    4300084: Group_007
+    4300086: 3D_Object__003
+    4300088: Group_006
+    4300090: 3D_Object__001
+    4300092: Group_005
+    4300094: 3D_Object_#15_003
+    4300096: Group_004
+    4300098: 3D_Object_#11_003
+    4300100: Group_003
+    4300102: 3D_Object_#15_001
+    4300104: Group_002
+    4300106: 3D_Object_#11_001
+    4300108: Group_001
+    6400000: 3D_Object_#11_001
+    6400002: 3D_Object_#11_003
+    6400004: 3D_Object_#13_001
+    6400006: 3D_Object_#15_001
+    6400008: 3D_Object_#15_003
+    6400010: 3D_Object_#19_001
+    6400012: 3D_Object_#20_001
+    6400014: 3D_Object_#24_001
+    6400016: 3D_Object_#3_001
+    6400018: 3D_Object_#5_001
+    6400020: 3D_Object_#8_001
+    6400022: 3D_Object__001
+    6400024: 3D_Object__003
+    6400026: 3D_Object__005
+    6400028: 3D_Object__007
+    6400030: 4-954_001
+    6400032: 4-954_002
+    6400034: car racing seat_001
+    6400036: car racing seat_002
+    6400038: Group_001
+    6400040: Group_002
+    6400042: Group_003
+    6400044: Group_004
+    6400046: Group_005
+    6400048: Group_006
+    6400050: Group_007
+    6400052: Group_008
+    6400054: Group_009
+    6400056: Group_010
+    6400058: Group_012
+    6400060: Group_013
+    6400062: Group_015
+    6400064: Group_017
+    6400066: Group_018
+    6400068: Group_019
+    6400070: Group_020
+    6400072: Group_021
+    6400074: Group_022
+    6400076: Group_023
+    6400078: Group_024
+    6400080: License Plate_003
+    6400082: License Plate_004
+    6400084: MHRU 119_001
+    6400086: MHRU 119_002
+    6400088: O.P.P._001
+    6400090: O.P.P._002
+    6400092: ONTARIO_001
+    6400094: ONTARIO_002
+    6400096: POLICE#1_001
+    6400098: POLICE#2_001
+    6400100: POLICE_001
+    6400102: TORONTO_001
+    6400104: TORONTO_002
+    6400106: YOURS TO DISCOVE_001
+    6400108: YOURS TO DISCOVE_002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

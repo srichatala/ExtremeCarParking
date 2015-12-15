@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 4dce356122e21734581539c677122c29
+timeCreated: 1449535330
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beton_001
+    100004: Beton_002
+    100006: Hout_001
+    100008: Hout_002
+    100010: Hout_003
+    100012: Hout_004
+    100014: Schroefkop_001
+    100016: Schroefkop_002
+    100018: Schroefkop_003
+    100020: Schroefkop_004
+    100022: Schroefkop_005
+    100024: Schroefkop_006
+    100026: Schroefkop_007
+    100028: Schroefkop_008
+    400000: //RootNode
+    400002: Beton_001
+    400004: Beton_002
+    400006: Hout_001
+    400008: Hout_002
+    400010: Hout_003
+    400012: Hout_004
+    400014: Schroefkop_001
+    400016: Schroefkop_002
+    400018: Schroefkop_003
+    400020: Schroefkop_004
+    400022: Schroefkop_005
+    400024: Schroefkop_006
+    400026: Schroefkop_007
+    400028: Schroefkop_008
+    2300000: Beton_001
+    2300002: Beton_002
+    2300004: Hout_001
+    2300006: Hout_002
+    2300008: Hout_003
+    2300010: Hout_004
+    2300012: Schroefkop_001
+    2300014: Schroefkop_002
+    2300016: Schroefkop_003
+    2300018: Schroefkop_004
+    2300020: Schroefkop_005
+    2300022: Schroefkop_006
+    2300024: Schroefkop_007
+    2300026: Schroefkop_008
+    3300000: Beton_001
+    3300002: Beton_002
+    3300004: Hout_001
+    3300006: Hout_002
+    3300008: Hout_003
+    3300010: Hout_004
+    3300012: Schroefkop_001
+    3300014: Schroefkop_002
+    3300016: Schroefkop_003
+    3300018: Schroefkop_004
+    3300020: Schroefkop_005
+    3300022: Schroefkop_006
+    3300024: Schroefkop_007
+    3300026: Schroefkop_008
+    4300000: Schroefkop_008
+    4300002: Beton_002
+    4300004: Beton_001
+    4300006: Hout_004
+    4300008: Hout_003
+    4300010: Hout_002
+    4300012: Hout_001
+    4300014: Schroefkop_007
+    4300016: Schroefkop_006
+    4300018: Schroefkop_005
+    4300020: Schroefkop_004
+    4300022: Schroefkop_003
+    4300024: Schroefkop_002
+    4300026: Schroefkop_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
